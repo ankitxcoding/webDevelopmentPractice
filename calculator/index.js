@@ -3,8 +3,8 @@ let n2=prompt("Enter an other integer: ");
 document.getElementById("num1-el").textContent=n1;
 document.getElementById("num2-el").textContent=n2;
 let answer=document.getElementById("ans");
-num1=parseInt(n1);
-num2=parseInt(n2);
+let num1=parseInt(n1);
+let num2=parseInt(n2);
 
 function addition() {
     answer.textContent=num1+num2;
