@@ -7,14 +7,14 @@ let num1=parseInt(n1);
 let num2=parseInt(n2);
 
 function addition() {
-    answer.textContent=num1+num2;
+    answer.textContent="Answer = "+(num1+num2);
 }
 function subtraction() {
-    answer.textContent=num1-num2;
+    answer.textContent="Answer = "+(num1-num2);
 }
 function multiplication() {
-    answer.textContent=num1*num2;
+    answer.textContent="Answer = "+(num1*num2);
 }
 function division() {
-    answer.textContent=num1/num2;
+    answer.textContent="Answer = "+(num1/num2);
 }
