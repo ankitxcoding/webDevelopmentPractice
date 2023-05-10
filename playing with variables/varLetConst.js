@@ -41,4 +41,4 @@ function exampleConst() {
     console.log(x); // outputs 10
 }
   
-exampleConst();  
+exampleConst();
