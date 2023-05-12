@@ -1,4 +1,4 @@
-// printing 1-5 one after another with the time interval gap of 1 second
+// printing 1-5 one after another with the time interval gap of 1 second using let keyword
 
 function x() {
     for(let i=1; i<=5; i++) {
